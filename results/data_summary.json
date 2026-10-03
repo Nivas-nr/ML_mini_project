@@ -1,0 +1,26 @@
+{
+  "full": {
+    "rows": 10416,
+    "features": 64,
+    "bankrupt": 493,
+    "bankrupt_pct": 4.73,
+    "missing_cells": 9833,
+    "rows_with_missing": 5581
+  },
+  "train": {
+    "rows": 8332,
+    "features": 64,
+    "bankrupt": 394,
+    "bankrupt_pct": 4.73,
+    "missing_cells": 7889,
+    "rows_with_missing": 4481
+  },
+  "test": {
+    "rows": 2084,
+    "features": 64,
+    "bankrupt": 99,
+    "bankrupt_pct": 4.75,
+    "missing_cells": 1944,
+    "rows_with_missing": 1100
+  }
+}
